@@ -2,31 +2,24 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Bar Lerer
     - name: Languages
-      value: English, German
+      value: Hebrew, English
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: M.Sc in Computer Science
+      institution: Ben-Gurion Univeristy of the Negev
+      year: 2023
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
+        - GPA: 94
+        - Research topic: Using Deep Learning to solve the Helmholtz equation
+    - title: B.Sc in Computer Science and Engineering
       institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+      year: 2021
       description:
-        - Description 1.
-        - Description 2.
+        - Israeli GPA: 86
 
 - title: Experience
   type: time_table
