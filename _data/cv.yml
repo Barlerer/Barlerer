@@ -28,39 +28,36 @@
       institution: Ben-Gurion University of the Negev
       year: 2021 - 2023
       description:
-        - Foundations of Software Engineering
-        - Workshop on Software Engineering Project
+        - Assisting students with course work while providing constructive feedback
+        - Evaluating students' performance
+        - Assisting lecturers in creating and assessing tests
+      - title: Courses
+          contents:
+            - Foundations of Software Engineering
+            - Workshop on Software Engineering Project
+      
 
     - title: Delft University of Technology
       institution: Ben-Gurion University of the Negev
       year: 2020 - 2021
+      description:
+        - Assisting students with course work while providing constructive feedback
+        - Evaluating students' performance
+        - Assisting lecturers in creating and assessing tests
       - title: Courses
           contents:
             - Big Data
             - Software Engineering Methods
             - Software Project
-      description:
-        - Check
 
-    - title: Research Engineer
-      institution: The Web Information Systems Research Group (TU Delft)
-      year: 2020 - 2021
-      description:
-        - Developed Dandelion, a crowd computing chatbot, connecting researchers at TU Delft and students
-        - Designed a micro-service system architecture, built according to research specifications and with scalability in mind
-to allow for more than 20,000 students to use the service
-        - Using NLP techniques for personalized conversations, and using a RabbitMQ for a robust communication protocol
-between servers and users
-    
+
     - title: Software Engineering Internship
       institution: KPMG
       year: 2020
       description:
         - Developed a frictionless CAPTCHA solution that is privacy-minded
-        - Created deployment pipeline, running static analysis, unit and integration tests and continuous deployment of
-Docker containers to Microsoft Azure
-        - Built an extensive back-end service using Flask, Redis and PostgreSQL, which employs heuristic estimations to
-evaluate humans from bots
+        - Created deployment pipeline, running static analysis, unit and integration tests and continuous deployment of Docker containers to Microsoft Azure
+        - Built an extensive back-end service using Flask, Redis and PostgreSQL, which employs heuristic estimations to evaluate humans from bots
 
 
 - title: Skills
