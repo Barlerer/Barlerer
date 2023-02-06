@@ -34,14 +34,17 @@
     - title: Delft University of Technology
       institution: Ben-Gurion University of the Negev
       year: 2020 - 2021
+      - title: Courses
+          contents:
+            - Big Data
+            - Software Engineering Methods
+            - Software Project
       description:
-        - Big Data
-        - Software Engineering Methods
-        - Software Project
+        - Check
 
     - title: Research Engineer
       institution: The Web Information Systems Research Group (TU Delft)
-      year: Jul 2020 - Jun 2021
+      year: 2020 - 2021
       description:
         - Developed Dandelion, a crowd computing chatbot, connecting researchers at TU Delft and students
         - Designed a micro-service system architecture, built according to research specifications and with scalability in mind
@@ -51,7 +54,7 @@ between servers and users
     
     - title: Software Engineering Internship
       institution: KPMG
-      year: Apr 2020 - Jul 2020
+      year: 2020
       description:
         - Developed a frictionless CAPTCHA solution that is privacy-minded
         - Created deployment pipeline, running static analysis, unit and integration tests and continuous deployment of
