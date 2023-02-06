@@ -57,7 +57,7 @@
       description:
         - Developed Dandelion, a crowd computing chatbot, connecting researchers at TU Delft and students
         - Designed a micro-service system architecture, built according to research specifications and with scalability in mind to allow for more than 20,000 students to use the service
-        - AUsing NLP techniques for personalized conversations, and using a RabbitMQ for a robust communication protocol between servers and users
+        - Using NLP techniques for personalized conversations, and using a RabbitMQ for a robust communication protocol between servers and users
 
 
 
