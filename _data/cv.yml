@@ -31,20 +31,20 @@
         - Assisting students with course work while providing constructive feedback
         - Evaluating students' performance
         - Assisting lecturers in creating and assessing tests
-      - title: Courses
+        - title: Courses
           contents:
             - Foundations of Software Engineering
             - Workshop on Software Engineering Project
       
 
-    - title: Delft University of Technology
-      institution: Ben-Gurion University of the Negev
-      year: 2020 - 2021
+    - title: Teaching Assistant
+      institution: Delft University of Technology
+      year: Sep 2020 - Sep 2021
       description:
         - Assisting students with course work while providing constructive feedback
         - Evaluating students' performance
         - Assisting lecturers in creating and assessing tests
-      - title: Courses
+        - title: Courses
           contents:
             - Big Data
             - Software Engineering Methods
