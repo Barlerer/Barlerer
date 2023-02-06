@@ -13,13 +13,13 @@
       institution: Ben-Gurion Univeristy of the Negev
       year: 2023
       description:
-        - GPA: 94
-        - Research topic: Using Deep Learning to solve the Helmholtz equation
+        - "GPA: 94"
+        - "Research topic: Using Deep Learning to solve the Helmholtz equation"
     - title: B.Sc in Computer Science and Engineering
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
+      institution: Delft University of Technology
       year: 2021
       description:
-        - Israeli GPA: 86
+        - "Israeli GPA: 86"
 
 - title: Experience
   type: time_table
@@ -54,37 +54,14 @@
       institution: University of Zurich, Zurich, Switzerland
       year: 1909 - 1911
 
-- title: Open Source Projects
-  type: time_table
+- title: Skills
+  type: list
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+    - "Languages: Python, Java, Scala"
+    - "Frameworks: PyTorch, Numpy, pandas, scikit-learn, Flask, Django"
+    - "DevOps: Docker, CI/CD, Linux, Git"
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Tennis 🎾 and Scuba Diving 🤿
