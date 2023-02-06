@@ -22,5 +22,8 @@ I am an M.Sc Deep Learning researcher and currently a student at the Ben-Gurion 
 My research topic is using Deep Convolutional Neural Networks to accelerate the iterative solution to
 the heterogeneous Helmholtz Equation.
 
-I am passionate about research applications and using theoretical theory to solve real-world problems. I have a solid Computer Science and Mathematical background, as well as experience in Artificial intelligence frameworks.
+I am passionate about research applications and using theoretical basis to solve real-world problems. I have a solid Computer Science and Mathematical background, as well as experience in Artificial intelligence frameworks.
+
+I believe that having a well-thought-out system design is the foundation for any successful software development project, and I am an avid advocate for a "*plan first, program second*" approach. I am eager to leverage my passion for research and my strong problem-solving skills to make a meaningful difference in software development.
+
 
