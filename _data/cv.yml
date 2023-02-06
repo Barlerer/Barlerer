@@ -24,35 +24,41 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Teaching Assistant
+      institution: Ben-Gurion University of the Negev
+      year: 2021 - 2023
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Foundations of Software Engineering
+        - Workshop on Software Engineering Project
+
+    - title: Delft University of Technology
+      institution: Ben-Gurion University of the Negev
+      year: 2020 - 2021
       description:
-        - Description 1.
-        - Description 2.
+        - Big Data
+        - Software Engineering Methods
+        - Software Project
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: Research Engineer
+      institution: The Web Information Systems Research Group (TU Delft)
+      year: Jul 2020 - Jun 2021
       description:
+        - Developed Dandelion, a crowd computing chatbot, connecting researchers at TU Delft and students
+        - Designed a micro-service system architecture, built according to research specifications and with scalability in mind
+to allow for more than 20,000 students to use the service
+        - Using NLP techniques for personalized conversations, and using a RabbitMQ for a robust communication protocol
+between servers and users
+    
+    - title: Software Engineering Internship
+      institution: KPMG
+      year: Apr 2020 - Jul 2020
+      description:
+        - Developed a frictionless CAPTCHA solution that is privacy-minded
+        - Created deployment pipeline, running static analysis, unit and integration tests and continuous deployment of
+Docker containers to Microsoft Azure
+        - Built an extensive back-end service using Flask, Redis and PostgreSQL, which employs heuristic estimations to
+evaluate humans from bots
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
 
 - title: Skills
   type: list
