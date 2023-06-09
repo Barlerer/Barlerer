@@ -70,19 +70,19 @@
         - Built an extensive back-end service using Flask, Redis and PostgreSQL, which employs heuristic estimations to evaluate humans from bots
 
 
-- title: Skills
-  type: list
-  contents:
-    - "Languages: Python, Java, Scala"
-    - "Frameworks: PyTorch, Numpy, pandas, scikit-learn, Flask, Django"
-    - "DevOps: Docker, CI/CD, Linux, Git"
-
 - title: Honors and Awards
   type: time_table
   contents:
     - year: 2023
       items: 
         - Dean's list
+
+- title: Skills
+  type: list
+  contents:
+    - "Languages: Python, Java, Scala"
+    - "Frameworks: PyTorch, Numpy, pandas, scikit-learn, Flask, Django"
+    - "DevOps: Docker, CI/CD, Linux, Git"
 
 - title: Other Interests
   type: list
