@@ -77,10 +77,12 @@
     - "Frameworks: PyTorch, Numpy, pandas, scikit-learn, Flask, Django"
     - "DevOps: Docker, CI/CD, Linux, Git"
 
-- title: Awards
-  type: list
+- title: Honors and Awards
+  type: time_table
   contents:
-    - "Dean's list for the academic year of 2023"
+    - year: 2023
+      items: 
+        - Dean's list
 
 - title: Other Interests
   type: list
