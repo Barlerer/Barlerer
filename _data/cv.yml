@@ -24,6 +24,12 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Software Engineer
+      institution: Cadence Design Systems
+      year: May 2023
+      description:
+        - Designed and implemented smart regression features
+
     - title: Teaching Assistant
       institution: Ben-Gurion University of the Negev
       year: Oct 2021 - Oct 2023
