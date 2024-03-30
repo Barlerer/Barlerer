@@ -13,7 +13,7 @@
       institution: Ben-Gurion Univeristy of the Negev
       year: 2023
       description:
-        - "GPA: 94"
+        - "GPA: 95"
         - "Research topic: Using Deep Learning to solve the Helmholtz equation"
     - title: B.Sc in Computer Science and Engineering
       institution: Delft University of Technology
@@ -29,6 +29,9 @@
       year: May 2023
       description:
         - Designed and implemented smart regression features
+        - Collaborating with multiple teams across the company to innovate and develop cutting-edge products
+        - Integration and development of AI solutions onto existing products for higher efficiency
+
 
     - title: Teaching Assistant
       institution: Ben-Gurion University of the Negev
